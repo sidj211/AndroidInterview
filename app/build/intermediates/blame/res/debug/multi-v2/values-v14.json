@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Dell\\Downloads\\Android-Interview-Complete-App-Codes (2)\\Android Interview complete App Codes\\Android Studio Codes\\AndroidInterview\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dell\\Downloads\\Android-Interview-Complete-App-Codes (2)\\Android Interview complete App Codes\\Android Studio Codes\\AndroidInterview\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "370"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "198"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\677d42a416382434bd08140b3f75f2d1\\appcompat-v7-22.1.1\\res\\values-v14\\values.xml",
+                    "from": {
+                        "startLines": "4,11,12,13,19",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "301,818,889,972,1382",
+                        "endLines": "8,11,12,18,24",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "572,884,967,1377,1799"
+                    },
+                    "to": {
+                        "startLines": "5,10,11,12,18",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "203,479,550,633,1043",
+                        "endLines": "9,10,11,17,23",
+                        "endColumns": "12,70,82,12,12",
+                        "endOffsets": "474,545,628,1038,1460"
+                    }
+                }
+            ]
+        }
+    ]
+}
